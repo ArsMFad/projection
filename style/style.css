@@ -245,6 +245,7 @@ input {
 	border-style: solid;
 	border-color: rgb(141, 204, 169);
 	background-color: rgb(108, 192, 145);
+	outline: none;
 }
 
 ::-webkit-input-placeholder {
@@ -276,6 +277,7 @@ textarea {
 	overflow: hidden;
 	margin-bottom: -20px;
 	background-color: rgb(108, 192, 145);
+	outline: none;
 }
 
 .h5_foot {
