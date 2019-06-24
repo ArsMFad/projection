@@ -140,6 +140,8 @@ h2 {
 	display: block;
 	width: 225px;
 	margin: auto;
+	position: relative;
+	top: 30px;
 }
 
 .a_btn:hover .btn {
@@ -200,8 +202,6 @@ main {
 
 .lm,
 .gs {
-	position: relative;
-	top: 30px;
 }
 
 h5 {
@@ -286,6 +286,7 @@ textarea {
 	text-align: center;
 	color: white;
 	transition: 0.7s;
+	margin-top: 30px;
 }
 
 h6 {
